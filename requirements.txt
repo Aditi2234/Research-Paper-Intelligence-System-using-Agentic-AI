@@ -1,0 +1,16 @@
+streamlit
+datasets
+sentence-transformers
+faiss-cpu
+transformers==4.46.3
+huggingface_hub==0.26.2
+tokenizers==0.20.3
+sentence-transformers==3.3.1
+keybert==0.8.5
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+pandas
+numpy
