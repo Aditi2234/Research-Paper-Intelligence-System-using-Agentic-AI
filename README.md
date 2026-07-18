@@ -38,7 +38,7 @@ An AI-powered semantic search system for Machine Learning research papers that e
  Retrieve Top-K Papers                    Similarity Scores
           │
           ▼
-   Paper Title & Abstract
+Paper Title & Abstract
           │
           ├───────────────┬───────────────────┐
           ▼               ▼                   ▼
